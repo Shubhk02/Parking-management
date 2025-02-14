@@ -1,3 +1,3 @@
 ...... Follow the setup steps.
 
-Read Steps pdf
+Read Setup steps pdf
